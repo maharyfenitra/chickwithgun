@@ -1,0 +1,12 @@
+{
+    "name": "MAHTOKEN",
+    "symbol": "MHT",
+    "description": "Tets mahary dev net",
+    "image": "https://raw.githubusercontent.com/maharyfenitra/chickwithgun/main/chickwithgun.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
